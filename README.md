@@ -1,5 +1,5 @@
-# AI-Class-ACTUAL-
-The AI class that works
-Hello! I made 
-I succeeded
-I'm angry
+I'm daisy. 
+I'm happy
+I'm mad
+I'm depressed
+I'm elated
